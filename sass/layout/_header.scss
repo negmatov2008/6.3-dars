@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 3.5rem;
+  margin-bottom: 9rem;
+}
+.btn-secondary {
+  background: #e8eff2;
+  border: none;
+  color: #162542;
+  font-family: inherit;
+  font-size: 0.9rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 56px; /* 100% */
+  text-transform: uppercase;
+}
